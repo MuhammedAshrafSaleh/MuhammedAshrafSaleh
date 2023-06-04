@@ -1,4 +1,4 @@
-<h1 align="center">May the peace, blessings, and mercy of God be upon you 👋, I'm Muhammed Ashraf</h1>
+<h1 align="center">May the peace, blessings, and mercy of God be upon you 👋</h1>
 <h3 align="center">Hello, I'm Muhammed Ashraf, an experienced software developer with a background in web design, backend development, and Flutter mobile app development. I enjoy taking on new challenges and learning new technologies to enhance my development abilities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedashrafsaleh&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedashrafsaleh" /> </p>
